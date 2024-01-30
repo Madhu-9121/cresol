@@ -1,0 +1,37 @@
+.chart{
+    position: fixed;
+    top: 0;
+    margin-top: 100px;
+    left: 300px;
+    
+}
+.parent{
+    width: 600px;
+    height: auto;
+    position: fixed;
+    top: 0;
+    margin-top: 100px;
+    left: 800px;
+  
+}
+.ul{
+  
+    text-align: start;
+    font-size: 26px;
+    display: flex;
+    justify-self: space-between;
+    align-items: center;
+    font-weight: 600;
+
+}
+.desc{
+    width: 300px;
+    height: auto;
+    text-align: start;
+    font-size: 19px;
+    margin-top: 50px;
+    margin-left: 50px;
+    line-height: 30px;
+    font-weight: 500;
+
+}
